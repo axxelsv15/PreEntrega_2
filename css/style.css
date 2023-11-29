@@ -288,8 +288,6 @@ form button {
   }
 }
 
-/* ... (tu CSS existente) ... */
-
 /* Estilos para el menú desplegable en dispositivos móviles */
 .menu-icon {
   display: none; /* Oculta el ícono del menú en pantallas más grandes */
